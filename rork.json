@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Duo",
+      "path": "ios-duo",
+      "framework": "swift"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
